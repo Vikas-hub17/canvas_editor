@@ -1,0 +1,9 @@
+/* src/App.css */
+.container {
+  max-width: 600px;
+}
+
+button.w-8.h-8 {
+  padding: 0;
+  margin: 0;
+}
